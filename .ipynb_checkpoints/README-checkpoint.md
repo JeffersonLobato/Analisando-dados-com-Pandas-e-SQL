@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">About the repository</h1>
+
 <p style="text-align: justify;">
 In this repository, you will follow my study on Data Analysis with Pandas and SQL in detail, through practical projects. However, the focus of this study is mainly on the Pandas library, as Pandas is more comprehensive.
 </p>
@@ -7,6 +9,7 @@ SQL (Structured Query Language) is a language used to manage and manipulate data
 <p style="text-align: justify;">
 Pandas, on the other hand, is an open-source library for the Python programming language, primarily used for data analysis and manipulation. It provides high-performance data structures, easy-to-use data analysis tools, and functions for reading and writing data in different file formats such as CSV, Excel, and SQL. The main data structures in Pandas are series and dataframes, which allow for the manipulation of tabular data and time series data. Pandas also provides tools for data cleaning and preparation, data aggregation and merging, and real-time data manipulation. With its wide range of features, Pandas is widely used in data science, finance, statistics, and other areas that require the manipulation and analysis of complex data.
 </p>
+<h1 style="text-align: center;">Sobre o repositório</h1>
 <p style="text-align: justify;">
 Neste repositório você acompanhará meu estudo sobre Análise de Dados com Pandas e SQL de forma detalhada, através de projetos práticos, contudo, o foco desse estudo está majoritariamente voltado para a biblioteca Pandas, uma vez que o Pandas é mais abrangente.
 </p>
