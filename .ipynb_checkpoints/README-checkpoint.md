@@ -10,13 +10,13 @@ SQL (Structured Query Language) is a language used to manage and manipulate data
 Pandas, on the other hand, is an open-source library for the Python programming language, primarily used for data analysis and manipulation. It provides high-performance data structures, easy-to-use data analysis tools, and functions for reading and writing data in different file formats such as CSV, Excel, and SQL. The main data structures in Pandas are series and dataframes, which allow for the manipulation of tabular data and time series data. Pandas also provides tools for data cleaning and preparation, data aggregation and merging, and real-time data manipulation. With its wide range of features, Pandas is widely used in data science, finance, statistics, and other areas that require the manipulation and analysis of complex data.
 </p>
 
-##Project 1
+<h2>Project 1</h2>
 AQUI TERÁ UM LINK
 
-##Project 2
+<h2>Project 2</h2>
 AQUI TERÁ UM LINK
 
-##Project 3
+<h2>Project 3</h2>
 AQUI TERÁ UM LINK
 
 <h1 style="text-align: center;">Sobre o repositório</h1>
@@ -30,11 +30,11 @@ SQL (Structured Query Language) é uma linguagem usada para gerenciar e manipula
 Já o Pandas é uma biblioteca de código aberto para a linguagem de programação Python, usada principalmente para análise e manipulação de dados. Ela fornece estruturas de dados de alta performance, fáceis de usar e ferramentas de análise de dados. As principais estruturas de dados do Pandas são as séries e os dataframes, que permitem a manipulação de dados tabulares e de séries temporais. O Pandas também fornece funções para leitura e gravação de dados em diferentes formatos de arquivo, como CSV, Excel e SQL, além de ferramentas para limpeza e preparação de dados, agregação e fusão de dados e manipulação de dados em tempo real. Com sua ampla gama de recursos, o Pandas é amplamente utilizado em ciência de dados, finanças, estatística e outras áreas que exigem manipulação e análise de dados complexos.
 </p>
 
-##Projeto 1
+<h2>Projeto 1</h2>
 AQUI TERÁ UM LINK
 
-##Projeto 2
+<h2>Projeto 2</h2>
 AQUI TERÁ UM LINK
 
-##Projeto 3
+<h2>Projeto 3</h2>
 AQUI TERÁ UM LINK
