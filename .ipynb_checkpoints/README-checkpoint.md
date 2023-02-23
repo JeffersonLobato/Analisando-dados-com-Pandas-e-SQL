@@ -19,6 +19,10 @@ AQUI TERÁ UM LINK
 <h2>Project 3</h2>
 AQUI TERÁ UM LINK
 
+<h4>Exercise 1</h4>
+
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exerc%C3%ADcios.ipynb" target="_blank">Click here: Analyzing data from a supermarket.</a>
+
 <h1 style="text-align: center;">Sobre o repositório</h1>
 <p style="text-align: justify;">
 Neste repositório você acompanhará meu estudo sobre Análise de Dados com Pandas e SQL de forma detalhada, através de projetos práticos, contudo, o foco desse estudo está majoritariamente voltado para a biblioteca Pandas, uma vez que o Pandas é mais abrangente.
@@ -38,3 +42,7 @@ AQUI TERÁ UM LINK
 
 <h2>Projeto 3</h2>
 AQUI TERÁ UM LINK
+
+<h4>Exercício 1</h4>
+
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exerc%C3%ADcios.ipynb" target="_blank">Clique aqui: Analisando dados de um supermercado.</a>
