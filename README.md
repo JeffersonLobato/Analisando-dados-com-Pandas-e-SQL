@@ -11,20 +11,20 @@ Pandas, on the other hand, is an open-source library for the Python programming 
 </p>
 
 <h2>Studies</h2>
-
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filters</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Index Operations</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Multilevel Indices</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Missing data treatment</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>GroupBy Method</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operations with DataFrames</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Time Series</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Pandas IO</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a>
-
+<ul>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filters</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Index Operations</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Multilevel Indices</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Missing data treatment</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>GroupBy Method</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operations with DataFrames</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Time Series</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Pandas IO</a></li>
+<li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a></li>
+</ul>
 
 <h2>Project 1</h2>
 AQUI TERÁ UM LINK
@@ -51,20 +51,20 @@ Já o Pandas é uma biblioteca de código aberto para a linguagem de programaç�
 </p>
 
 <h2>Estudos</h2>
-
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filtros</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Operações com Index</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Índices Multiníveis</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Tratamento de Dados Ausentes</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>Método GroupBy</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operações com DataFrames</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Series Temporais</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Entradas e saídas de dados em Pandas</a>
-#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a>
-
+<ul>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filtros</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Operações com Index</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Índices Multiníveis</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Tratamento de Dados Ausentes</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>Método GroupBy</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operações com DataFrames</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Series Temporais</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Entradas e saídas de dados em Pandas</a></li>
+    <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a></li>
+</ul>
 <h2>Projeto 1</h2>
 AQUI TERÁ UM LINK
 
