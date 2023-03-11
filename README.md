@@ -37,7 +37,7 @@ AQUI TERÁ UM LINK
 
 <h4>Exercise 1</h4>
 
-<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exerc%C3%ADcios.ipynb" target="_blank">Click here: Analyzing data from a supermarket.</a>
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exercises.ipynb">Click here: Analyzing data from a supermarket.</a>
 
 <h1 style="text-align: center;">Sobre o repositório</h1>
 <p style="text-align: justify;">
@@ -76,4 +76,4 @@ AQUI TERÁ UM LINK
 
 <h4>Exercício 1</h4>
 
-<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exerc%C3%ADcios.ipynb" target="_blank">Clique aqui: Analisando dados de um supermercado.</a>
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exercises.ipynb">Clique aqui: Analisando dados de um supermercado.</a>
