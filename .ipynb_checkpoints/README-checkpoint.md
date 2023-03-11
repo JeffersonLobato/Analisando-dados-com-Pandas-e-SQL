@@ -10,6 +10,22 @@ SQL (Structured Query Language) is a language used to manage and manipulate data
 Pandas, on the other hand, is an open-source library for the Python programming language, primarily used for data analysis and manipulation. It provides high-performance data structures, easy-to-use data analysis tools, and functions for reading and writing data in different file formats such as CSV, Excel, and SQL. The main data structures in Pandas are series and dataframes, which allow for the manipulation of tabular data and time series data. Pandas also provides tools for data cleaning and preparation, data aggregation and merging, and real-time data manipulation. With its wide range of features, Pandas is widely used in data science, finance, statistics, and other areas that require the manipulation and analysis of complex data.
 </p>
 
+<h2>Studies</h2>
+
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filters</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Index Operations</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Multilevel Indices</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Missing data treatment</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>GroupBy Method</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operations with DataFrames</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Time Series</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Pandas IO</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a>
+
+
 <h2>Project 1</h2>
 AQUI TERÁ UM LINK
 
@@ -33,6 +49,21 @@ SQL (Structured Query Language) é uma linguagem usada para gerenciar e manipula
 <p style="text-align: justify;">
 Já o Pandas é uma biblioteca de código aberto para a linguagem de programação Python, usada principalmente para análise e manipulação de dados. Ela fornece estruturas de dados de alta performance, fáceis de usar e ferramentas de análise de dados. As principais estruturas de dados do Pandas são as séries e os dataframes, que permitem a manipulação de dados tabulares e de séries temporais. O Pandas também fornece funções para leitura e gravação de dados em diferentes formatos de arquivo, como CSV, Excel e SQL, além de ferramentas para limpeza e preparação de dados, agregação e fusão de dados e manipulação de dados em tempo real. Com sua ampla gama de recursos, o Pandas é amplamente utilizado em ciência de dados, finanças, estatística e outras áreas que exigem manipulação e análise de dados complexos.
 </p>
+
+<h2>Estudos</h2>
+
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/series.ipynb'>Series</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/dataframes.ipynb'>DataFrames</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/iloc_and_filters.ipynb'>ILoc e Filtros</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/index_operations.ipynb'>Operações com Index</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/multilevel_indices.ipynb'>Índices Multiníveis</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/missing_data.ipynb'>Tratamento de Dados Ausentes</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/GroupBy.ipynb'>Método GroupBy</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/merge_concat_join.ipynb'>Merge, concat e join</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Operations_with_DataFrames.ipynb'>Operações com DataFrames</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/time_series.ipynb'>Series Temporais</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Entradas e saídas de dados em Pandas</a>
+#<a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a>
 
 <h2>Projeto 1</h2>
 AQUI TERÁ UM LINK
