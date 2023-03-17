@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">About the repository</h1>
 
 <p style="text-align: justify;">
-In this repository, you will follow my study on Data Analysis with Pandas and SQL in detail, through practical projects. However, the focus of this study is mainly on the Pandas library, as Pandas is more comprehensive.
+In this repository, you will follow my study on Data Analysis with Pandas and SQL in detail, through practical projects. However, the focus of this study is mainly on the Pandas library, as Pandas is more comprehensive. This study was conducted through Asimov Academy.
 </p>
 <p style="text-align: justify;">
 SQL (Structured Query Language) is a language used to manage and manipulate data in relational databases. It provides commands for creating, querying, updating, and deleting data in a database, as well as user management, permissions, and security. SQL is widely used in applications and systems that require access to structured data, such as database management systems, business applications, and websites that require interaction with databases. With its ability to manipulate and query large amounts of data, SQL is an essential language for those working with databases and data management.
@@ -26,23 +26,19 @@ Pandas, on the other hand, is an open-source library for the Python programming 
 <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a></li>
 </ul>
 
-<h2>Project 1</h2>
-AQUI TERÁ UM LINK
-
-<h2>Project 2</h2>
-AQUI TERÁ UM LINK
-
-<h2>Project 3</h2>
-AQUI TERÁ UM LINK
-
-<h4>Exercise 1</h4>
+<h2>Exercise 1</h2>
 
 <a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exercises.ipynb">Click here: Analyzing data from a supermarket.</a>
 
+<h2>Exercise 2</h2>
+
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Exercises_Pandas/exercises-pandas.ipynb">Click here: Analyzing gasoline prices in Brazil.</a>
+
 <h1 style="text-align: center;">Sobre o repositório</h1>
 <p style="text-align: justify;">
-Neste repositório você acompanhará meu estudo sobre Análise de Dados com Pandas e SQL de forma detalhada, através de projetos práticos, contudo, o foco desse estudo está majoritariamente voltado para a biblioteca Pandas, uma vez que o Pandas é mais abrangente.
+Neste repositório você acompanhará meu estudo sobre Análise de Dados com Pandas e SQL de forma detalhada, através de projetos práticos, contudo, o foco desse estudo está majoritariamente voltado para a biblioteca Pandas, uma vez que o Pandas é mais abrangente. Este estudo ocorreu através da Asimov Academy.
 </p>
+
 <p style="text-align: justify;">
 SQL (Structured Query Language) é uma linguagem usada para gerenciar e manipular dados em bancos de dados relacionais. Ela fornece comandos para criação, consulta, atualização e exclusão de dados em um banco de dados, além de gerenciamento de usuários, permissões e segurança. O SQL é amplamente utilizado em aplicativos e sistemas que requerem acesso a dados estruturados, como sistemas de gerenciamento de banco de dados, aplicativos de negócios e websites que exigem interação com bancos de dados. Com sua capacidade de manipular e consultar grandes quantidades de dados, o SQL é uma linguagem essencial para aqueles que trabalham com bancos de dados e gerenciamento de dados.
 </p>
@@ -65,15 +61,11 @@ Já o Pandas é uma biblioteca de código aberto para a linguagem de programaç�
     <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/pandas_IO.ipynb'>Entradas e saídas de dados em Pandas</a></li>
     <li><a href='https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/sql.ipynb'>SQL</a></li>
 </ul>
-<h2>Projeto 1</h2>
-AQUI TERÁ UM LINK
 
-<h2>Projeto 2</h2>
-AQUI TERÁ UM LINK
-
-<h2>Projeto 3</h2>
-AQUI TERÁ UM LINK
-
-<h4>Exercício 1</h4>
+<h2>Exercício 1</h2>
 
 <a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/exercises.ipynb">Clique aqui: Analisando dados de um supermercado.</a>
+
+<h2>Exercício 2</h2>
+
+<a href="https://github.com/JeffersonLobato/Analisando-dados-com-Pandas-e-SQL/blob/main/Exercises_Pandas/exercises-pandas.ipynb">Clique aqui: Analisando os preços da gasolina no Brasil.</a>
